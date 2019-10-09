@@ -10,7 +10,7 @@
 - Example:- Fibonacci number series
 
 
-Note:
+### Note:
 - Principal of optimality states that a problem can be solved by taking sequence of decisions to get the optimal solution.
 - means we can solve larger problems given the solution to it's smaller sub-problems
 
