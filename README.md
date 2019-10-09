@@ -10,7 +10,7 @@
 - Example:- Fibonacci number series
 
 
-Note:
+### Note:
 - Principal of optimality states that a problem can be solved by taking sequence of decisions to get the optimal solution.
 - means we can solve larger problems given the solution to it's smaller sub-problems
 
@@ -49,7 +49,7 @@ Note:
 
 ![](https://lab.gdy.club/~mehta/fibrecursion.png) 
 
-Note:
+### Note:
 - Now what dynamic programming says that fib(3) and fib(2) can be stored.
 
 
