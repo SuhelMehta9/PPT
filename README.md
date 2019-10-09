@@ -49,7 +49,7 @@ Note:
 
 ![](https://lab.gdy.club/~mehta/fibrecursion.png) 
 
-Note:
+### Note:
 - Now what dynamic programming says that fib(3) and fib(2) can be stored.
 
 
