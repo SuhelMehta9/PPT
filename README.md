@@ -46,6 +46,27 @@ Note:
 ---
 ## Fibonacci series using Recurrsion
 ### 1,1,2,3,5...
+1.)Cpp code for Fibonacci Series using recursion:-
+#include<iostream>
+using namespace std;
+int fibo(int n)
+{
+    if(n<=1)
+    {
+        return n;
+    }
+    else{
+        return fibo(n-1)+fibo(n-2);
+    }
+
+
+}
+int main()
+{
+    int num;
+    cin>>num;
+    cout<<"Fibonacci series is: "<<fibo(num);
+}
 
 ![](https://lab.gdy.club/~mehta/fibrecursion.png) 
 
